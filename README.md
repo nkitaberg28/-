@@ -40,7 +40,8 @@ Target: [ваш домен из шага 1]
 Name: _minecraft._tcp.play
 
 Target: play.domain.com
-[Посмотреть скрин](srvzapis.png)
+
+<img src="srvzapis.png" width="1500">
 
 ## Рекомендуемые DNS-сервисы
 1. **Cloudflare** (бесплатный, быстрый, с защитой от DDoS)
