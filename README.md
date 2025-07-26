@@ -19,7 +19,7 @@ Value: Ваш_IP_адрес (например 95.153.179.212)
 
 - Для доступа через `play.domain.com` → Name: `play`
 
-<img src="azapis.png" width="500">
+<img src="azapis.png" width="1500">
 
 ### 2. Настройка SRV-записи
 Тип: SRV
